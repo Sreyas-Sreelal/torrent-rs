@@ -1,11 +1,11 @@
 #[repr(C)]
-pub enum ProxyType{
-	NONE,
-	Socks4,
-	Socks5,
-	Socks5Pw,
-	Http,
-	HttpPw,
+pub enum ProxyType {
+    NONE,
+    Socks4,
+    Socks5,
+    Socks5Pw,
+    Http,
+    HttpPw,
 }
 
 #[repr(C)]

@@ -1,5 +1,5 @@
 #[repr(C)]
-pub enum StorageMode{
-	Allocate,
-	Sparse,
+pub enum StorageMode {
+    Allocate,
+    Sparse,
 }

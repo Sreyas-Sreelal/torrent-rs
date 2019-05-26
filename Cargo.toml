@@ -1,0 +1,7 @@
+[package]
+name = "torrent-rs"
+version = "0.1.0"
+authors = ["Sreyas <sreyassreelal@gmail.com>"]
+edition = "2018"
+
+[dependencies]
